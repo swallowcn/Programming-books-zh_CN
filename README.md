@@ -1,7 +1,7 @@
 经典编程书籍介绍
 ===
 
-1、Java  
+##1、Java  
 
 Java编程语言---Java四大名著----James Gosling(Java之父)  
 Java编程思想----Java四大名著----------------Bruce Eckel  
@@ -11,7 +11,7 @@ Effective Java中文版------Java四大名著--------Joshua Bloch
 Java与模式------------------------------阎宏  
  
  
-2、c#  
+##2、C#  
 
 C#程序设计-------Charles Petzold“windows编程泰山北斗”---C#语言“倚天屠龙双剑”  
 C# Primer中文版--------Stanley B.Lippman---C#语言“倚天屠龙双剑”  
@@ -21,7 +21,7 @@ c#Windows程序设计----------Charles Petzold“windows编程泰山北斗”---
 .NET本质论--第1卷：公共语言运行库(中文版)--------Chris Sells---.NET平台四大天王   
  
  
-3、C++  
+##3、C++  
  
 C++程序设计语言（特别版)---c++八大金刚----Bjarne Stroustrup“C++之父”  
 C++ Primer中文版----c++八大金刚---Stanley B.Lippman  
@@ -40,7 +40,7 @@ C++ Primer Plus(第五版)中文版---Stephen Prata
 工程经验之积累Effective c++、More Effective c++、Exceptional c++  
 
  
-4、c  
+##4、C  
  
 C程序设计语言（第2版·新版）---C语言“倚天屠龙双剑”---Brian W.Kernighan“C语言之父”  
 C Primer Plus中文版（第五版）--------C语言“倚天屠龙双剑”---Stephen Prata  
@@ -52,7 +52,7 @@ C程序设计教程---------------------------------H.M.Deitel/P.J.Deitel
 C陷阱与缺陷-----------------------------------Andrew Koenig   
  
  
-5、网络  
+##5、网络  
  
 计算机网络第四版中文版----网络编程三剑客--------------Andrew S.Tanenbaum  
 TCP/IP详解3卷本--------------------Richard Stevens----网络编程三剑客  
@@ -64,7 +64,7 @@ UNIX环境高级编程（第2版)--------------------Richard Stevens
  
    
  
-6、算法
+##6、算法
  
 计算机程序设计艺术-------Donald.E.Knuth----------算法“倚天屠龙”双剑  
 算法导论-----------------Thomas H. Cormen--------算法“倚天屠龙”双剑  
@@ -73,18 +73,18 @@ UNIX环境高级编程（第2版)--------------------Richard Stevens
  
    
  
-7、图形编程  
+##7、图形编程  
 Windows 图形编程----------------FENG YUAN --图形编程界的Charles Petzold之书  
  
  
-8、数据结构  
+##8、数据结构  
  
 数据结构 C++语言描述》58.00(Data Structures C++) William Ford,William Topp 刘卫东 沈官林   
 数据结构算法与应用-C++语言描述》49.00Sartej Sahni 汪诗林 孙晓东等机械工业出版社  
  
    
  
-9、软件工程及软件方法学  
+##9、软件工程及软件方法学  
  
 设计模式--可复用面向对象软件的基础   
 重构—改善既有代码的设计  
@@ -110,6 +110,6 @@ Steve McConnell的原作《代码大全》(第1版)是公认的关于编程的�
 程序员修炼之道
  
  
-10、操作系统  
+##10、操作系统  
 深入理解计算机系统（修订版）-------RANDAL E.BRYANT   
  
